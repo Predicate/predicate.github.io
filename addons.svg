@@ -18,7 +18,7 @@
 <!-- DataRegistry -->
 <g id="node3" class="node"><title>DataRegistry</title>
 <a xlink:href="DataRegistry/index.html" xlink:title="DataRegistry" target="_parent">
-<polygon fill="none" stroke="gray" points="107,-37 1,-37 1,-1 107,-1 107,-37"/>
+<polygon fill="none" stroke="blue" points="107,-37 1,-37 1,-1 107,-1 107,-37"/>
 <text text-anchor="middle" x="54" y="-14.4" font-family="Times Roman,serif" font-size="14.00" fill="#ffcc00">DataRegistry</text>
 </a>
 </g>
